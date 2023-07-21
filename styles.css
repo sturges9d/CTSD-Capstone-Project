@@ -56,3 +56,11 @@ div.overlay {
   width: 80%;
   color: white;
 }
+
+.footerLink {
+  color: #bf311a;
+}
+
+.footerLink:hover {
+  color: #fdb913;
+}

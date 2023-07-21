@@ -74,6 +74,16 @@ button[type="submit"] {
     cursor: pointer;
 }
 
+button:hover[type="submit"] {
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #fdb913;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
 /***** 
 FOOTER
 *****/
